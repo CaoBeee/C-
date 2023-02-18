@@ -1,0 +1,26 @@
+INSTRUCTOR TESTING H06--dcao41
+----------------------------------------------------------------------
+Checking function: sumNums("str") -------------------
+   + sumNums("9wz1d73277r8047")
+   + sumNums("hiez6ic3")
+   + sumNums("a22bbb3")
+   + sumNums("g")
+   + sumNums("t5k2z2nov0i6")
+   + sumNums("vll2013s")
+   + sumNums("7zh")
+   + sumNums("")
+   + sumNums("mjw69g9j3uxh")
+   + sumNums("ws569o85oqwrp75om1")
+   + sumNums("7 11")
+   + sumNums("6227326n73g2")
+   + sumNums("yl39x")
+   + sumNums("dhvj7y365ut85019")
+   + sumNums("2xz86vr013h2s78c6j")
+   + sumNums("4p")
+----------------------------------------------------------------------
+  Tests passing 16/16 (100%).
+
+----------------------------------------------------------------------
+INSTRUCTOR TESTS H06:dcao41: ALL TESTS -- PASS 16/16 (100%).
+----------------------------------------------------------------------
+MTY0NTg2ODE0MDpkY2FvNDE6SDA2OjEwMC4wMCU=

@@ -1,0 +1,44 @@
+INSTRUCTOR TESTING H09--dcao41
+----------------------------------------------------------------------
+Checking function: Tests for toRoman() -------------------
+   + toRoman(0)->OUT OF RANGE
+   + toRoman(1568)->MDLXVIII
+   + toRoman(78)->LXXVIII
+   + toRoman(2358)->MMCCCLVIII
+   + toRoman(4250)->OUT OF RANGE
+   + toRoman(1588)->MDLXXXVIII
+   + toRoman(3177)->MMMCLXXVII
+   + toRoman(1613)->MDCXIII
+   + toRoman(1625)->MDCXXV
+   + toRoman(3010)->MMMX
+----------------------------------------------------------------------
+  Tests passing 10/10 (100%).
+
+Checking function: Tests for ones() -------------------
+   + ones(5)->V
+   + ones(3)->III
+   + ones(9)->IX
+   + ones(4)->IV
+----------------------------------------------------------------------
+  Tests passing 4/4 (100%).
+
+Checking function: Tests for tens() -------------------
+   + tens(9)->XC
+   + tens(4)->XL
+   + tens(8)->LXXX
+   + tens(2)->XX
+----------------------------------------------------------------------
+  Tests passing 4/4 (100%).
+
+Checking function: Tests for hundreds() -------------------
+   + hundreds(6)->DC
+   + hundreds(4)->CD
+   + hundreds(9)->CM
+   + hundreds(3)->CCC
+----------------------------------------------------------------------
+  Tests passing 4/4 (100%).
+
+----------------------------------------------------------------------
+INSTRUCTOR TESTS H09:dcao41: ALL TESTS -- PASS 22/22 (100%).
+----------------------------------------------------------------------
+MTY0NjUzMDY3NzpkY2FvNDE6SDA5OjEwMC4wMCU=

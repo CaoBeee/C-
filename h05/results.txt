@@ -1,0 +1,25 @@
+INSTRUCTOR TESTING H05--dcao41
+----------------------------------------------------------------------
+Checking function: toFrenchGender("country") -------------------
+   + toFrenchGender("Roumanie")->la Roumanie
+   + toFrenchGender("Guatamala")->le Guatamala
+   + toFrenchGender("Philippines")->les Philippines
+   + toFrenchGender("Suisse")->la Suisse
+   + toFrenchGender("Bahamas")->les Bahamas
+   + toFrenchGender("Angleterre")->l'Angleterre
+   + toFrenchGender("Andorre")->l'Andorre
+   + toFrenchGender("Guyane francaise")->la Guyane francaise
+   + toFrenchGender("Portugal")->le Portugal
+   + toFrenchGender("Israel")->Israel
+   + toFrenchGender("Monaco")->Monaco
+   + toFrenchGender("Etats-Unis")->les Etats-Unis
+   + toFrenchGender("Panama")->le Panama
+   + toFrenchGender("Surinam")->le Surinam
+   + toFrenchGender("iles Galapagos")->les iles Galapagos
+----------------------------------------------------------------------
+  Tests passing 15/15 (100%).
+
+----------------------------------------------------------------------
+INSTRUCTOR TESTS H05:dcao41: ALL TESTS -- PASS 15/15 (100%).
+----------------------------------------------------------------------
+MTY0NTg2MDk4NDpkY2FvNDE6SDA1OjEwMC4wMCU=

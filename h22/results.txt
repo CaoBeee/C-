@@ -1,0 +1,22 @@
+TESTING H22--dcao41
+----------------------------------------------------------------------
+Checking function: flip -------------------
+   + flip worked correctly for images/stegosaurus.png
+   + flip worked correctly for images/stegosaurus.png
+   + flip worked correctly for images/stegosaurus.png
+   + flip worked correctly for images/stegosaurus.png
+----------------------------------------------------------------------
+  Tests passing 4/4 (100%).
+
+Checking function: mirror -------------------
+   + mirror worked correctly for images/stegosaurus.png
+   + mirror worked correctly for images/stegosaurus.png
+   + mirror worked correctly for images/stegosaurus.png
+   + mirror worked correctly for images/stegosaurus.png
+----------------------------------------------------------------------
+  Tests passing 4/4 (100%).
+
+----------------------------------------------------------------------
+H22:dcao41:ALL TESTS -- PASS 8/8 (100%).
+----------------------------------------------------------------------
+MTY1MDYxOTA4NzpkY2FvNDE6SDIyOjEwMC4wMCU=

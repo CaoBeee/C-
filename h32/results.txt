@@ -1,0 +1,32 @@
+INSTRUCTOR TESTING H32--dcao41
+----------------------------------------------------------------------
+Checking function: operator[] -------------------
+   + img[0]->(255, 255, 255, 255)
+   + img[5181]->(30, 30, 30, 255)
+   + img[79910]->(255, 222, 21, 255)
+   + img[31672]->(255, 222, 21, 255)
+   + img[20857]->(25, 64, 245, 55)
+   + img[37407]->(26, 65, 246, 55)
+   + img[38238]->(27, 66, 247, 55)
+   + Correctly catches out_of_range.
+----------------------------------------------------------------------
+  Tests passing 8/8 (100%).
+
+Checking function: translate -------------------
+   + translate(50, 0) works correctly.
+   + translate(-72, 0) works correctly.
+   + translate(385, 0) works correctly.
+   + translate(-415, 0) works correctly.
+   + translate(0, 88) works correctly.
+   + translate(0, -93) works correctly.
+   + translate(0, 425) works correctly.
+   + translate(0, -465) works correctly.
+   + translate(83, 91) works correctly.
+   + translate(-91, 151) works correctly.
+----------------------------------------------------------------------
+  Tests passing 10/10 (100%).
+
+----------------------------------------------------------------------
+INSTRUCTOR TESTS H32:dcao41: ALL TESTS -- PASS 18/18 (100%).
+----------------------------------------------------------------------
+MTY1Mjg1ODU3MTpkY2FvNDE6SDMyOjEwMC4wMCU=
